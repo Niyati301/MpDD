@@ -54,7 +54,7 @@ This system combines a traditional ML pipeline with a fine-tuned DistilBERT mode
 
 ### 1. Machine Learning Model
 - Vectorizer: TF-IDF  
-- Model: (Specify your model here e.g., Logistic Regression / Naive Bayes)
+- Model: Logistic Regression / SVM
 
 ### 2. Transformer Model
 - Model: DistilBERT (fine-tuned)  
